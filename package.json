@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "collection.lazy@git://github.com/triggity/collection.lazy.git#master",
+      "/home/michael/cfcode/opsdash"
+    ]
+  ],
+  "_from": "git://github.com/triggity/collection.lazy.git#master",
+  "_id": "collection.lazy@0.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/collection.lazy",
+  "_phantomChildren": {},
+  "_requested": {
+    "hosted": {
+      "directUrl": "https://raw.githubusercontent.com/triggity/collection.lazy/master/package.json",
+      "gitUrl": "git://github.com/triggity/collection.lazy.git#master",
+      "httpsUrl": "git+https://github.com/triggity/collection.lazy.git#master",
+      "shortcut": "github:triggity/collection.lazy#master",
+      "ssh": "git@github.com:triggity/collection.lazy.git#master",
+      "sshUrl": "git+ssh://git@github.com/triggity/collection.lazy.git#master",
+      "type": "github"
+    },
+    "name": "collection.lazy",
+    "raw": "collection.lazy@git://github.com/triggity/collection.lazy.git#master",
+    "rawSpec": "git://github.com/triggity/collection.lazy.git#master",
+    "scope": null,
+    "spec": "git://github.com/triggity/collection.lazy.git#master",
+    "type": "hosted"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/triggity/collection.lazy.git#8fdc01295da0b3d9ba7fb97e8947899caa701b91",
+  "_shasum": "01f4300f1f0fefa20b784b45c70111983b71287f",
+  "_shrinkwrap": null,
+  "_spec": "collection.lazy@git://github.com/triggity/collection.lazy.git#master",
+  "_where": "/home/michael/cfcode/opsdash",
+  "author": {
+    "name": "Michael Truong"
+  },
+  "dependencies": {},
+  "description": "lazy-loading values for backbone.collection via promises",
+  "devDependencies": {},
+  "gitHead": "8fdc01295da0b3d9ba7fb97e8947899caa701b91",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "collection.lazy",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0"
+}
